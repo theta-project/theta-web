@@ -1,0 +1,22 @@
+{
+  "name": "theta-web",
+  "version": "0.1.0",
+  "description": "frontend for theta! servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"meme\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theta-project/theta-web.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "theta team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theta-project/theta-web/issues"
+  },
+  "homepage": "https://github.com/theta-project/theta-web#readme"
+}
