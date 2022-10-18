@@ -4,7 +4,7 @@
   "description": "frontend for theta! servers",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"meme\""
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/theta-project/theta-web/issues"
   },
-  "homepage": "https://github.com/theta-project/theta-web#readme"
+  "homepage": "https://github.com/theta-project/theta-web#readme",
+  "dependencies": {
+    "@fastify/view": "^7.1.1",
+    "ejs": "^3.1.8",
+    "fastify": "^4.9.1",
+    "fastify-cli": "^5.5.0"
+  }
 }
